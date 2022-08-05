@@ -1,0 +1,35 @@
+.box{ background-color: white;
+    border: 3PX solid gray;
+
+    color:black;
+    width: 300px;
+    height: 150px;
+    
+    border-radius: 5px;
+    font-weight: bold;
+    position: absolute;
+    top: 260px;
+    left: 500px;
+}
+#blurtask{
+    filter: blur(3px);
+}
+.card{ background-color
+    : white;
+        border: 3PX solid gray;
+    
+        color:black;
+        width: 300px;
+        height: 150px;
+        
+        border-radius: 5px;
+        font-weight: bold;
+        position: absolute;
+        top: 260px;
+        left: 500px;
+       
+    }
+    .additem{margin-left:180px ;
+      background-color:skyblue;  
+    }
+              
